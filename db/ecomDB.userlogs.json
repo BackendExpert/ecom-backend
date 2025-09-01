@@ -1,0 +1,958 @@
+[{
+  "_id": {
+    "$oid": "68abc6ce7a71e7362e824f2d"
+  },
+  "user": {
+    "$oid": "68abba8a32ca814085278c45"
+  },
+  "action": "user_login",
+  "description": "jkandymusic@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-08-25T02:13:34.285Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-25T02:13:34.291Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T02:13:34.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68abd7677a71e7362e824f33"
+  },
+  "user": {
+    "$oid": "68abba8a32ca814085278c45"
+  },
+  "action": "request_password_reset",
+  "description": "jkandymusic@gmail.com Request Password Reset code",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-08-25T03:24:23.473Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-25T03:24:23.474Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T03:24:23.474Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68abd7997a71e7362e824f3a"
+  },
+  "user": {
+    "$oid": "68abba8a32ca814085278c45"
+  },
+  "action": "otp_verify_success",
+  "description": "jkandymusic@gmail.com Password Reset OTP verify Success",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-08-25T03:25:13.064Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-25T03:25:13.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T03:25:13.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68abd7b47a71e7362e824f40"
+  },
+  "user": {
+    "$oid": "68abba8a32ca814085278c45"
+  },
+  "action": "passupdate_success",
+  "description": "jkandymusic@gmail.com Update Password Success",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-08-25T03:25:40.062Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-25T03:25:40.063Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T03:25:40.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68abd7c57a71e7362e824f45"
+  },
+  "user": {
+    "$oid": "68abba8a32ca814085278c45"
+  },
+  "action": "user_login",
+  "description": "jkandymusic@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-08-25T03:25:57.148Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-25T03:25:57.149Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T03:25:57.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68abd8af7a71e7362e824f4b"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "request_password_reset",
+  "description": "jehanapptest@gmail.com Request Password Reset code",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-08-25T03:29:51.653Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-25T03:29:51.654Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T03:29:51.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68abd8bc7a71e7362e824f52"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "otp_verify_success",
+  "description": "jehanapptest@gmail.com Password Reset OTP verify Success",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-08-25T03:30:04.560Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-25T03:30:04.560Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T03:30:04.560Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68abd8c37a71e7362e824f58"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "passupdate_success",
+  "description": "jehanapptest@gmail.com Update Password Success",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-08-25T03:30:11.304Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-25T03:30:11.304Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T03:30:11.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68abd8cc7a71e7362e824f5c"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "user_login",
+  "description": "jehanapptest@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-08-25T03:30:20.255Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-25T03:30:20.256Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T03:30:20.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ac641c64f12bb781016688"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "user_login",
+  "description": "jehanapptest@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-08-25T13:24:44.613Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-25T13:24:44.619Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T13:24:44.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ac6fc94ddc52a991fa2b5c"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "user_login",
+  "description": "jehanapptest@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-08-25T14:14:33.876Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-25T14:14:33.882Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T14:14:33.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ac714837a001fac79f5b51"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "user_login",
+  "description": "jehanapptest@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-08-25T14:20:56.421Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-25T14:20:56.428Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T14:20:56.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ac725a37a001fac79f5bb7"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "user_login",
+  "description": "jehanapptest@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-08-25T14:25:30.869Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-25T14:25:30.869Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T14:25:30.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ac72a437a001fac79f5beb"
+  },
+  "user": {
+    "$oid": "68abba8a32ca814085278c45"
+  },
+  "action": "user_login",
+  "description": "jkandymusic@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-08-25T14:26:44.963Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-25T14:26:44.964Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T14:26:44.964Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ac72d737a001fac79f5bf9"
+  },
+  "user": {
+    "$oid": "68abba8a32ca814085278c45"
+  },
+  "action": "user_login",
+  "description": "jkandymusic@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-08-25T14:27:35.790Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-08-25T14:27:35.791Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T14:27:35.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ac738b37a001fac79f5c21"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "profile_image_updated",
+  "description": "jehanapptest@gmail.com Update Profile Image Success",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "createdAt": {
+    "$date": "2025-08-25T14:30:35.926Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-25T14:30:35.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b4fcf9f9432a3cc2028ebf"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "user_login",
+  "description": "jehanapptest@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-09-01T01:55:05.012Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T01:55:05.019Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T01:55:05.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b4fd4df9432a3cc2028ed2"
+  },
+  "user": {
+    "$oid": "68abba8a32ca814085278c45"
+  },
+  "action": "request_password_reset",
+  "description": "jkandymusic@gmail.com Request Password Reset code",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-09-01T01:56:29.720Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T01:56:29.721Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T01:56:29.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b4fd55f9432a3cc2028ed9"
+  },
+  "user": {
+    "$oid": "68abba8a32ca814085278c45"
+  },
+  "action": "otp_verify_success",
+  "description": "jkandymusic@gmail.com Password Reset OTP verify Success",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-09-01T01:56:37.129Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T01:56:37.129Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T01:56:37.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b4fd5af9432a3cc2028edf"
+  },
+  "user": {
+    "$oid": "68abba8a32ca814085278c45"
+  },
+  "action": "passupdate_success",
+  "description": "jkandymusic@gmail.com Update Password Success",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-09-01T01:56:42.785Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T01:56:42.786Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T01:56:42.786Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b4fd5ff9432a3cc2028ee3"
+  },
+  "user": {
+    "$oid": "68abba8a32ca814085278c45"
+  },
+  "action": "user_login",
+  "description": "jkandymusic@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-09-01T01:56:47.915Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T01:56:47.915Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T01:56:47.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b50003f9432a3cc2028ef1"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "user_login",
+  "description": "jehanapptest@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-09-01T02:08:03.876Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T02:08:03.877Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T02:08:03.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b50005f9432a3cc2028ef5"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "user_login",
+  "description": "jehanapptest@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-09-01T02:08:05.644Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T02:08:05.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T02:08:05.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b50009f9432a3cc2028ef9"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "user_login",
+  "description": "jehanapptest@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+    "loginTime": {
+      "$date": "2025-09-01T02:08:09.954Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T02:08:09.954Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T02:08:09.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b5000bf9432a3cc2028efd"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "user_login",
+  "description": "jehanapptest@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+    "loginTime": {
+      "$date": "2025-09-01T02:08:11.576Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T02:08:11.576Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T02:08:11.576Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b50060f9432a3cc2028f01"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "user_login",
+  "description": "jehanapptest@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-09-01T02:09:36.979Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T02:09:36.980Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T02:09:36.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b50066f9432a3cc2028f05"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "user_login",
+  "description": "jehanapptest@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-09-01T02:09:42.873Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T02:09:42.873Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T02:09:42.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b5006df9432a3cc2028f09"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "user_login",
+  "description": "jehanapptest@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+    "loginTime": {
+      "$date": "2025-09-01T02:09:49.587Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T02:09:49.587Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T02:09:49.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b5007af9432a3cc2028f0d"
+  },
+  "user": {
+    "$oid": "68abba8a32ca814085278c45"
+  },
+  "action": "user_login",
+  "description": "jkandymusic@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-09-01T02:10:02.131Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T02:10:02.132Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T02:10:02.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b5014df9432a3cc2028f6b"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "user_login",
+  "description": "jehanapptest@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-09-01T02:13:33.242Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T02:13:33.242Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T02:13:33.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b5025bf9432a3cc2028fd9"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "user_login",
+  "description": "jehanapptest@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-09-01T02:18:03.673Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T02:18:03.673Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T02:18:03.673Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b502abf9432a3cc2028fe7"
+  },
+  "user": {
+    "$oid": "68abba8a32ca814085278c45"
+  },
+  "action": "user_login",
+  "description": "jkandymusic@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-09-01T02:19:23.419Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T02:19:23.419Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T02:19:23.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b502faf9432a3cc2028ff6"
+  },
+  "user": {
+    "$oid": "68abba8a32ca814085278c45"
+  },
+  "action": "user_login",
+  "description": "jkandymusic@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-09-01T02:20:42.712Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T02:20:42.712Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T02:20:42.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b50384f9432a3cc202900e"
+  },
+  "user": {
+    "$oid": "68abba8a32ca814085278c45"
+  },
+  "action": "user_login",
+  "description": "jkandymusic@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-09-01T02:23:00.066Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T02:23:00.067Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T02:23:00.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b503c6f9432a3cc202901c"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "user_login",
+  "description": "jehanapptest@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-09-01T02:24:06.530Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T02:24:06.530Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T02:24:06.530Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b50471f9432a3cc202902a"
+  },
+  "user": {
+    "$oid": "68968e6ef32b692bb02c4953"
+  },
+  "action": "user_login",
+  "description": "jehanapptest@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-09-01T02:26:57.725Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T02:26:57.725Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T02:26:57.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b5048df9432a3cc202904c"
+  },
+  "user": {
+    "$oid": "68abba8a32ca814085278c45"
+  },
+  "action": "user_login",
+  "description": "jkandymusic@gmail.com logged in",
+  "ipAddress": "::1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "metadata": {
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "loginTime": {
+      "$date": "2025-09-01T02:27:25.715Z"
+    }
+  },
+  "createdAt": {
+    "$date": "2025-09-01T02:27:25.716Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T02:27:25.716Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6837b60b735077d2866f126b"
+  },
+  "name": "admin",
+  "permissions": [
+    "role:manage",
+    "role:create",
+    "role:update",
+    "systemusers:manage",
+    "systemusers:create",
+    "systemusers:update",
+    "permission:manage",
+    "permission:create",
+    "permission:update",
+    "permission:delete",
+    "role:getone",
+    "role:delete",
+    "user:updatestatus",
+    "useractivity:manage",
+    "useractivity:oneget"
+  ],
+  "createdAt": {
+    "$date": "2025-05-29T01:19:07.542Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T01:23:52.865Z"
+  },
+  "__v": 45
+},
+{
+  "_id": {
+    "$oid": "6837b616735077d2866f126e"
+  },
+  "name": "staff",
+  "permissions": [],
+  "createdAt": {
+    "$date": "2025-05-29T01:19:18.585Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T01:24:06.714Z"
+  },
+  "__v": 38
+},
+{
+  "_id": {
+    "$oid": "6843973fea08c312b1a7d4cb"
+  },
+  "name": "vendor",
+  "permissions": [],
+  "createdAt": {
+    "$date": "2025-06-07T01:34:55.181Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-18T14:59:45.691Z"
+  },
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "68439748ea08c312b1a7d4d6"
+  },
+  "name": "buyer",
+  "permissions": [],
+  "createdAt": {
+    "$date": "2025-06-07T01:35:04.435Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T01:23:59.819Z"
+  },
+  "__v": 12
+}]
